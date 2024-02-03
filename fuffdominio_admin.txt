@@ -1,0 +1,1 @@
+[2Kapple-app-site-association [Status: 200, Size: 628, Words: 217, Lines: 28, Duration: 36ms][0m[2Kfavicon.ico             [Status: 200, Size: 1582, Words: 13, Lines: 1, Duration: 44ms][0m
